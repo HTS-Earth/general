@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: 'Addition: '
-labels: ''
-assignees: Eldafint, ThunbergOlle, iChoob, ZaDoSS
+labels: feature
+assignees: Eldafint, ThunbergOlle
 
 ---
 
@@ -12,4 +12,3 @@ assignees: Eldafint, ThunbergOlle, iChoob, ZaDoSS
 **Describe the solution you'd like**
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
