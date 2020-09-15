@@ -3,7 +3,6 @@ name: Feature request
 about: Suggest an idea for this project
 title: 'Addition: '
 labels: feature
-assignees: Eldafint, ThunbergOlle
 
 ---
 
