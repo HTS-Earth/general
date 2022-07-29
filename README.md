@@ -1,5 +1,5 @@
-# server-issues
-A list of known server issues that needs to be fixed.
+# server-issues and features
+A list of known server issues and general features that needs to be implemented or set up for the server.
 
 You can report new issues here: https://github.com/HTS-Earth/server-issues/issues
 
